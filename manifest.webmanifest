@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Mi Biblioteca",
+  "short_name": "Biblioteca",
+  "description": "Tu música guardada en tu teléfono",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16132e",
+  "theme_color": "#e0306b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
